@@ -1,0 +1,4 @@
+#Mon Dec 17 20:14:16 CST 2018
+base.0=D\:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

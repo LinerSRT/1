@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+     xmlns:custom="http://schemas.android.com/apk/res-auto/com.wiiteck.clockpreviewer"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+	
+    <com.wiiteck.clockpreviewer.Watch_XY_08
+        android:id="@+id/analog_appwidget"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:visibility="visible"
+        custom:dial="@drawable/xy_08_beijing"
+        custom:hand_second="@drawable/xy_08_miaozhen"
+        custom:hand_hour="@drawable/xy_08_shizhen"
+        custom:hand_minute="@drawable/xy_08_fenzhen"
+        />
+
+</RelativeLayout>

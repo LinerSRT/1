@@ -1,0 +1,16 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:custom="http://schemas.android.com/apk/res/com.wiiteck.clockpreviewer"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity" >
+
+    <com.wiiteck.clockpreviewer.Watch_KW98TG_03
+        android:id="@+id/watchtable"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_marginTop="0px"
+        android:visibility="visible"
+        custom:dial="@drawable/watch_kw98tg_03_beijing"/>
+
+</RelativeLayout>

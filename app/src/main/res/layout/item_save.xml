@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:custom="http://schemas.android.com/apk/res-auto/com.wiiteck.clockpreviewer"
+    android:layout_width="100dip"
+    android:layout_height="fill_parent"
+>
+
+	<com.wiiteck.clockpreviewer.CustomDigitalClockSave
+		 android:id="@+id/analog_appwidget"
+		 android:layout_width="fill_parent"
+		 android:layout_height="fill_parent" 
+		 android:layout_marginTop="0px"
+		 android:visibility="visible"
+		 custom:dial="@drawable/watch_ld_z19_save_dial"
+		 />
+    
+</RelativeLayout>
