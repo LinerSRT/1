@@ -9,8 +9,9 @@
         android:id="@+id/watchtable"
         android:layout_width="fill_parent"
         android:layout_height="fill_parent"
+        android:layout_marginTop="0px"
         android:visibility="visible"
-        custom:dial="@drawable/watch_ld_z28_02_bg"
+        custom:dial="@drawable/watch_ld_z18_19_beijing"
 		/>
 
 </RelativeLayout>

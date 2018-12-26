@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.wiiteck.clockpreviewer" >
+    package="com.wiiteck.clockpreviewer"
+    android:sharedUserId="android.uid.system" >
 
     <uses-sdk
         android:minSdkVersion="18"
@@ -19,7 +20,7 @@
     <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
     <!-- <uses-permission android:name="android.permission.WRITE_SECURE_SETTINGS" /> -->
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
     <!-- <uses-permission android:name="android.permission.BIND_APPWIDGET" /> -->
     <uses-permission android:name="android.permission.ADVANCED_WIDGET_API" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />

@@ -72,10 +72,6 @@
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\66468f856226e03ad683dc418e8c498d\\res\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
     },
     {
-        "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_ld_z19_01.xml.flat",
-        "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\layout\\item_ld_z19_01.xml"
-    },
-    {
         "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_battery_2.png.flat",
         "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\drawable-nodpi\\battery_2.png"
     },
@@ -134,10 +130,6 @@
     {
         "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_network_2g.png.flat",
         "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\drawable-nodpi\\network_2g.png"
-    },
-    {
-        "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_dy08_06.xml.flat",
-        "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\layout\\item_dy08_06.xml"
     },
     {
         "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
@@ -204,10 +196,6 @@
         "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\drawable-nodpi\\battery_80.png"
     },
     {
-        "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_regal_01_01.xml.flat",
-        "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\layout\\item_regal_01_01.xml"
-    },
-    {
         "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_watch_aqe_i6_01_month10.png.flat",
         "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\drawable-nodpi\\watch_aqe_i6_01_month10.png"
     },
@@ -270,10 +258,6 @@
     {
         "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_type_phone.png.flat",
         "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\drawable-nodpi\\type_phone.png"
-    },
-    {
-        "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_dy09_02.xml.flat",
-        "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\layout\\item_dy09_02.xml"
     },
     {
         "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_in_top.xml.flat",
@@ -342,10 +326,6 @@
     {
         "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_hour_zero.png.flat",
         "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\drawable-nodpi\\hour_zero.png"
-    },
-    {
-        "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_dy08_11.xml.flat",
-        "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\layout\\item_dy08_11.xml"
     },
     {
         "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_notification_button_pressed.9.png.flat",
@@ -560,10 +540,6 @@
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\66468f856226e03ad683dc418e8c498d\\res\\layout\\select_dialog_singlechoice_material.xml"
     },
     {
-        "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_dm18_01.xml.flat",
-        "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\layout\\item_dm18_01.xml"
-    },
-    {
         "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_watch_aqe_i6_01_month01.png.flat",
         "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\drawable-nodpi\\watch_aqe_i6_01_month01.png"
     },
@@ -636,10 +612,6 @@
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.0.0.aar\\e97f72dee85f8d587ad66dcd42d1217c\\res\\layout\\notification_template_big_media_narrow_custom.xml"
     },
     {
-        "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_xlyne_01.xml.flat",
-        "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\layout\\item_xlyne_01.xml"
-    },
-    {
         "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_minute_nine.png.flat",
         "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\drawable-nodpi\\minute_nine.png"
     },
@@ -664,12 +636,12 @@
         "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\drawable-nodpi\\watch_dy08_03_11weather_partlysunny.png"
     },
     {
-        "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\66468f856226e03ad683dc418e8c498d\\res\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
-    },
-    {
         "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_xy_01_hand01.png.flat",
         "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\drawable-nodpi\\xy_01_hand01.png"
+    },
+    {
+        "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\66468f856226e03ad683dc418e8c498d\\res\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
         "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_primary_text_disable_only_material_light.xml.flat",
@@ -766,10 +738,6 @@
     {
         "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_bt_anim_5.png.flat",
         "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\drawable-nodpi\\bt_anim_5.png"
-    },
-    {
-        "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_qw_logic_09.xml.flat",
-        "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\layout\\item_qw_logic_09.xml"
     },
     {
         "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_watch_dy08_13_miaozhen.png.flat",
@@ -920,10 +888,6 @@
         "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\drawable-nodpi\\smart_watch_screenon_guesture_off.png"
     },
     {
-        "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_kw06_08.xml.flat",
-        "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\layout\\item_kw06_08.xml"
-    },
-    {
         "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_com_mtk_music_bootactivity.png.flat",
         "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\mipmap-hdpi\\com_mtk_music_bootactivity.png"
     },
@@ -942,10 +906,6 @@
     {
         "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_watch_ld_z18_10_battery_4.png.flat",
         "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\drawable-nodpi\\watch_ld_z18_10_battery_4.png"
-    },
-    {
-        "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_ld_z18_10_2.xml.flat",
-        "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\layout\\item_ld_z18_10_2.xml"
     },
     {
         "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_watch_dy09_08weather_rain.png.flat",
@@ -978,10 +938,6 @@
     {
         "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\66468f856226e03ad683dc418e8c498d\\res\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\layout_item03.xml.flat",
-        "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\layout\\item03.xml"
     },
     {
         "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
@@ -1042,10 +998,6 @@
     {
         "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\66468f856226e03ad683dc418e8c498d\\res\\drawable-xxxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_kw06_09.xml.flat",
-        "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\layout\\item_kw06_09.xml"
     },
     {
         "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_watch_dy09_02weather_shower.png.flat",
@@ -1208,10 +1160,6 @@
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\66468f856226e03ad683dc418e8c498d\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
-        "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_jk02.xml.flat",
-        "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\layout\\item_jk02.xml"
-    },
-    {
         "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\66468f856226e03ad683dc418e8c498d\\res\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
     },
@@ -1242,10 +1190,6 @@
     {
         "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_arrow_drop_right_black_24dp.xml.flat",
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\66468f856226e03ad683dc418e8c498d\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
-    },
-    {
-        "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_dy08_09.xml.flat",
-        "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\layout\\item_dy08_09.xml"
     },
     {
         "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_watch_dy09_02_miaozhen.png.flat",
@@ -1382,10 +1326,6 @@
     {
         "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_dmn_battery_04.png.flat",
         "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\drawable-nodpi\\dmn_battery_04.png"
-    },
-    {
-        "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_ld_z28_01.xml.flat",
-        "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\layout\\item_ld_z28_01.xml"
     },
     {
         "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_watch_ld_z18_save_dial.png.flat",
@@ -1618,10 +1558,6 @@
     {
         "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_dian.png.flat",
         "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\drawable-nodpi\\dian.png"
-    },
-    {
-        "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_dy08_12.xml.flat",
-        "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\layout\\item_dy08_12.xml"
     },
     {
         "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_volume_down.png.flat",
@@ -1924,10 +1860,6 @@
         "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\drawable-nodpi\\xy_06_miaozhen.png"
     },
     {
-        "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_dy08_14.xml.flat",
-        "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\layout\\item_dy08_14.xml"
-    },
-    {
         "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_gps_off.png.flat",
         "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\drawable-nodpi\\gps_off.png"
     },
@@ -2036,10 +1968,6 @@
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\66468f856226e03ad683dc418e8c498d\\res\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
-        "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_aqe_i4_01.xml.flat",
-        "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\layout\\item_aqe_i4_01.xml"
-    },
-    {
         "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_qs_01weather_sunny.png.flat",
         "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\drawable-nodpi\\qs_01weather_sunny.png"
     },
@@ -2132,10 +2060,6 @@
         "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\drawable-mdpi\\xy_09_stepnum_9.png"
     },
     {
-        "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_qw_logic_10.xml.flat",
-        "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\layout\\item_qw_logic_10.xml"
-    },
-    {
         "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_watch_ld_z18_10_battery_1.png.flat",
         "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\drawable-nodpi\\watch_ld_z18_10_battery_1.png"
     },
@@ -2194,14 +2118,6 @@
     {
         "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_watch_kw98tg_01_minute1_8.png.flat",
         "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\drawable-nodpi\\watch_kw98tg_01_minute1_8.png"
-    },
-    {
-        "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\layout_item04.xml.flat",
-        "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\layout\\item04.xml"
-    },
-    {
-        "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_dm18_02.xml.flat",
-        "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\layout\\item_dm18_02.xml"
     },
     {
         "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_watch_kw98jk_04_bg25.png.flat",
@@ -2276,10 +2192,6 @@
         "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\drawable-nodpi\\watch_kw98jk_04_bg18.png"
     },
     {
-        "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_regal_01_02.xml.flat",
-        "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\layout\\item_regal_01_02.xml"
-    },
-    {
         "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_color_highlight_material.xml.flat",
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\66468f856226e03ad683dc418e8c498d\\res\\color-v23\\abc_color_highlight_material.xml"
     },
@@ -2324,10 +2236,6 @@
         "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\drawable-nodpi\\watch_kw98tg_03_priview.png"
     },
     {
-        "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_qw_logic_07.xml.flat",
-        "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\layout\\item_qw_logic_07.xml"
-    },
-    {
         "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_watch_aqe_i6_01_snow.png.flat",
         "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\drawable-nodpi\\watch_aqe_i6_01_snow.png"
     },
@@ -2366,10 +2274,6 @@
     {
         "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\3d86d7ec8e20efc0e6a278e5d536ced4\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
-    },
-    {
-        "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_qw_logic_08.xml.flat",
-        "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\layout\\item_qw_logic_08.xml"
     },
     {
         "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_black_16dp.png.flat",
@@ -2556,12 +2460,12 @@
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\66468f856226e03ad683dc418e8c498d\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_16dp.png"
     },
     {
-        "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_watch_dy08_02_disable.png.flat",
-        "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\drawable-nodpi\\watch_dy08_02_disable.png"
-    },
-    {
         "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_watch_clock_min_05.png.flat",
         "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\drawable-nodpi\\watch_clock_min_05.png"
+    },
+    {
+        "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_watch_dy08_02_disable.png.flat",
+        "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\drawable-nodpi\\watch_dy08_02_disable.png"
     },
     {
         "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_clock_skin_weather_showers.png.flat",
@@ -2586,10 +2490,6 @@
     {
         "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\66468f856226e03ad683dc418e8c498d\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_36dp.png"
-    },
-    {
-        "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\layout_item05.xml.flat",
-        "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\layout\\item05.xml"
     },
     {
         "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_qs01_date6.png.flat",
@@ -2836,12 +2736,12 @@
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\66468f856226e03ad683dc418e8c498d\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
-        "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_redbackground6.png.flat",
-        "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\drawable-nodpi\\redbackground6.png"
-    },
-    {
         "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_watch_clock_min_06.png.flat",
         "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\drawable-nodpi\\watch_clock_min_06.png"
+    },
+    {
+        "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_redbackground6.png.flat",
+        "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\drawable-nodpi\\redbackground6.png"
     },
     {
         "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
@@ -2886,10 +2786,6 @@
     {
         "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\66468f856226e03ad683dc418e8c498d\\res\\drawable-mdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
-    },
-    {
-        "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_dy09_01.xml.flat",
-        "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\layout\\item_dy09_01.xml"
     },
     {
         "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_widget_music_volume_big.png.flat",
@@ -3024,10 +2920,6 @@
         "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\drawable-nodpi\\week_7.png"
     },
     {
-        "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_regal_01_03.xml.flat",
-        "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\layout\\item_regal_01_03.xml"
-    },
-    {
         "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_qs01_date_hengxian.png.flat",
         "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\drawable-nodpi\\qs01_date_hengxian.png"
     },
@@ -3122,10 +3014,6 @@
     {
         "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_watch_kw98jk_04_bg22.png.flat",
         "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\drawable-nodpi\\watch_kw98jk_04_bg22.png"
-    },
-    {
-        "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_dy08_13.xml.flat",
-        "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\layout\\item_dy08_13.xml"
     },
     {
         "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_watch_dy08_03_01weather_partlysunny.png.flat",
@@ -3234,14 +3122,6 @@
     {
         "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_watch_dy08_10_beijing.png.flat",
         "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\drawable-nodpi\\watch_dy08_10_beijing.png"
-    },
-    {
-        "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\layout_item79.xml.flat",
-        "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\layout\\item79.xml"
-    },
-    {
-        "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_dy08_04.xml.flat",
-        "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\layout\\item_dy08_04.xml"
     },
     {
         "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_watch_kw98jk_04_bg17.png.flat",
@@ -3440,10 +3320,6 @@
         "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\drawable-nodpi\\qw14_power20.png"
     },
     {
-        "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_jk01.xml.flat",
-        "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\layout\\item_jk01.xml"
-    },
-    {
         "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\66468f856226e03ad683dc418e8c498d\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
     },
@@ -3510,10 +3386,6 @@
     {
         "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_xy_04_weather_fog.png.flat",
         "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\drawable-nodpi\\xy_04_weather_fog.png"
-    },
-    {
-        "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_aqe_i4_06.xml.flat",
-        "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\layout\\item_aqe_i4_06.xml"
     },
     {
         "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_icon_background.xml.flat",
@@ -3744,10 +3616,6 @@
         "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\drawable-nodpi\\watch_dy08_03_11weather_windy.png"
     },
     {
-        "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\layout_item71.xml.flat",
-        "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\layout\\item71.xml"
-    },
-    {
         "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_xy_04_weather_rainandsnowmixed.png.flat",
         "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\drawable-nodpi\\xy_04_weather_rainandsnowmixed.png"
     },
@@ -3770,10 +3638,6 @@
     {
         "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_weather_ic_rainandsnowmixed.png.flat",
         "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\drawable-nodpi\\weather_ic_rainandsnowmixed.png"
-    },
-    {
-        "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\layout_item02.xml.flat",
-        "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\layout\\item02.xml"
     },
     {
         "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_watch_dy08_03_fenzhen.png.flat",
@@ -3908,10 +3772,6 @@
         "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\layout\\item_x300_08.xml"
     },
     {
-        "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_jk04.xml.flat",
-        "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\layout\\item_jk04.xml"
-    },
-    {
         "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_watch_kw06_06_power20.png.flat",
         "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\drawable-nodpi\\watch_kw06_06_power20.png"
     },
@@ -4012,10 +3872,6 @@
         "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\drawable-nodpi\\watch_kw98tg_01_minute1_7.png"
     },
     {
-        "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_dy09_08.xml.flat",
-        "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\layout\\item_dy09_08.xml"
-    },
-    {
         "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_prev_pressed.png.flat",
         "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\drawable-nodpi\\prev_pressed.png"
     },
@@ -4030,10 +3886,6 @@
     {
         "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\66468f856226e03ad683dc418e8c498d\\res\\drawable-mdpi-v4\\abc_popup_background_mtrl_mult.9.png"
-    },
-    {
-        "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_ld_01.xml.flat",
-        "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\layout\\item_ld_01.xml"
     },
     {
         "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_watch_dy08_03_14weather_mostlycloudy.png.flat",
@@ -4070,10 +3922,6 @@
     {
         "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_seekbar_thumb_material.xml.flat",
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\66468f856226e03ad683dc418e8c498d\\res\\drawable\\abc_seekbar_thumb_material.xml"
-    },
-    {
-        "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_dy09_07.xml.flat",
-        "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\layout\\item_dy09_07.xml"
     },
     {
         "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_watch_dy08_03_14weather_windy.png.flat",
@@ -4134,10 +3982,6 @@
     {
         "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_qs_01weather_mostlyclear.png.flat",
         "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\drawable-nodpi\\qs_01weather_mostlyclear.png"
-    },
-    {
-        "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_dy08_10.xml.flat",
-        "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\layout\\item_dy08_10.xml"
     },
     {
         "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_black_36dp.png.flat",
@@ -4222,10 +4066,6 @@
     {
         "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_clock_skin_weather_snow.png.flat",
         "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\drawable-nodpi\\clock_skin_weather_snow.png"
-    },
-    {
-        "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\layout_item01.xml.flat",
-        "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\layout\\item01.xml"
     },
     {
         "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_qs01_date1.png.flat",
@@ -4408,10 +4248,6 @@
         "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\mipmap-hdpi\\com_android_vending_assetbrowseractivity.png"
     },
     {
-        "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_dy08_08.xml.flat",
-        "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\layout\\item_dy08_08.xml"
-    },
-    {
         "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_notification_expand_pressed.png.flat",
         "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\drawable-nodpi\\notification_expand_pressed.png"
     },
@@ -4472,10 +4308,6 @@
         "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\drawable-nodpi\\watch_ld_z18_16_month_07.png"
     },
     {
-        "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_dy08_05.xml.flat",
-        "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\layout\\item_dy08_05.xml"
-    },
-    {
         "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\66468f856226e03ad683dc418e8c498d\\res\\drawable-mdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
     },
@@ -4490,10 +4322,6 @@
     {
         "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_watch_ld_z18_10_week_2.png.flat",
         "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\drawable-nodpi\\watch_ld_z18_10_week_2.png"
-    },
-    {
-        "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_aqe_i6_01.xml.flat",
-        "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\layout\\item_aqe_i6_01.xml"
     },
     {
         "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_watch_aqe_i6_01_month11.png.flat",
@@ -4686,10 +4514,6 @@
     {
         "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_watch_kw98tg_01_minute1_1.png.flat",
         "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\drawable-nodpi\\watch_kw98tg_01_minute1_1.png"
-    },
-    {
-        "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_dy08_07.xml.flat",
-        "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\layout\\item_dy08_07.xml"
     },
     {
         "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_pre_textxxx.png.flat",
@@ -5076,20 +4900,12 @@
         "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\drawable-nodpi\\watch_ld_z18_16_month_09.png"
     },
     {
-        "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_dy09_09.xml.flat",
-        "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\layout\\item_dy09_09.xml"
-    },
-    {
         "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_watch_kw06_06_power80.png.flat",
         "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\drawable-nodpi\\watch_kw06_06_power80.png"
     },
     {
         "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_add_button.png.flat",
         "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\drawable-nodpi\\add_button.png"
-    },
-    {
-        "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_logic_01.xml.flat",
-        "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\layout\\item_logic_01.xml"
     },
     {
         "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_checkbox.xml.flat",
@@ -5118,10 +4934,6 @@
     {
         "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_battery_7.png.flat",
         "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\drawable-nodpi\\battery_7.png"
-    },
-    {
-        "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_lm_01.xml.flat",
-        "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\layout\\item_lm_01.xml"
     },
     {
         "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_activity_chooser_view.xml.flat",
@@ -5472,10 +5284,6 @@
         "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\drawable-nodpi\\alert_dialog_bg.png"
     },
     {
-        "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_kw06_06.xml.flat",
-        "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\layout\\item_kw06_06.xml"
-    },
-    {
         "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\66468f856226e03ad683dc418e8c498d\\res\\drawable-mdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
     },
@@ -5522,10 +5330,6 @@
     {
         "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_watch_kw99_regal_01_01_fenzhen.png.flat",
         "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\drawable-nodpi\\watch_kw99_regal_01_01_fenzhen.png"
-    },
-    {
-        "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_lm_02.xml.flat",
-        "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\layout\\item_lm_02.xml"
     },
     {
         "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_qs_01weather_fog.png.flat",
@@ -5618,10 +5422,6 @@
     {
         "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_watch_clockview_03.png.flat",
         "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\drawable-nodpi\\watch_clockview_03.png"
-    },
-    {
-        "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_dy08_01.xml.flat",
-        "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\layout\\item_dy08_01.xml"
     },
     {
         "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_second_1.png.flat",
@@ -5776,10 +5576,6 @@
         "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\drawable-nodpi\\watch_qw_logic_07_second.png"
     },
     {
-        "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_dy08_03.xml.flat",
-        "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\layout\\item_dy08_03.xml"
-    },
-    {
         "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_watch_ld_01hour05.png.flat",
         "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\drawable-nodpi\\watch_ld_01hour05.png"
     },
@@ -5930,10 +5726,6 @@
     {
         "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_watch_aqe_i6_01_month12.png.flat",
         "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\drawable-nodpi\\watch_aqe_i6_01_month12.png"
-    },
-    {
-        "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_dy08_02.xml.flat",
-        "source": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\src\\main\\res\\layout\\item_dy08_02.xml"
     },
     {
         "merged": "D:\\gz\\clockpreviewer_2018\\clockpreviewer_2018\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_hour_eight.png.flat",
